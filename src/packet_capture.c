@@ -1,7 +1,5 @@
 #include "packet_capture.h"
 
-int offset = 0;
-
 int setPromisc(const char *szIfName, int sfd, int iFlags)
 {
 	ifreq stIfr;
