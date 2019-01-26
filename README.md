@@ -7,5 +7,5 @@ packet mmap
 
 3. ./capture eth0
 
-![image]/https://github.com/yanfanc/packet_mmap/test.PNG
+![image]https://github.com/yanfanc/packet_mmap/test.PNG
 
